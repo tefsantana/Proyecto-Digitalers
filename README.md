@@ -1,4 +1,4 @@
-# Proyecto Digitalers realizado con @alex90o
+# Proyecto Digitalers realizado con @alex90o (EQUIPO 5)
 ![digitalers](https://user-images.githubusercontent.com/83146564/133868753-bc4bce21-9b41-4a83-9ccd-fe98d2a38d94.jpg)
 
 ## Consigna
